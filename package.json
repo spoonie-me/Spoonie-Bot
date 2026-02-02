@@ -1,0 +1,25 @@
+{
+  "name": "the-bridge",
+  "version": "1.0.0",
+  "description": "Invisible illness advocate - bridges the gap between chronic illness experience and external communication",
+  "homepage": "https://github.com/yourusername/the-bridge-skill",
+  "author": "Your Name",
+  "license": "MIT",
+  "keywords": [
+    "health",
+    "chronic-illness",
+    "invisible-illness",
+    "spoon-theory",
+    "medical-communication",
+    "advocacy"
+  ],
+  "metadata": {
+    "category": "health",
+    "emoji": "🌉",
+    "tags": ["healthcare", "disability", "chronic-pain", "communication"]
+  },
+  "files": {
+    "SKILL.md": "Main skill documentation",
+    "README.md": "Installation and usage guide"
+  }
+}
